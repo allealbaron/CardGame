@@ -51,7 +51,7 @@ These are the interfaces created for the application:
 	</li>
     <li>
         <b>IShuffler:</b>
-        Interface for shuffling decks. A regular shuffler deck method is implemented in this solution, but maybe the company would like to use  other shuffling methods. The interface has only one method, that takes a IList o ICards and returns it in another order.
+        Interface for shuffling decks. A regular shuffler deck method is implemented in this solution, but maybe the company would like to use  other shuffling methods. The interface has only one method, that takes a IList of ICards and returns it in another order.
     </li>
     <li>
         <b>IDealer:</b>
